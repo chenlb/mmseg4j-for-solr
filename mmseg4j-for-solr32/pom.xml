@@ -9,7 +9,7 @@
   <name>mmseg4j-for-solr32</name>
   <description>mmseg4j for solr/lucene 3.2 compatibility</description>
   <properties>
-  	<solr.version>3.2.0</solr.version>
+  	<solr.version>8.2.0</solr.version>
   	<slf4j.version>1.5.5</slf4j.version>
   </properties>
   <dependencies>
